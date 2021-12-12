@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636062757376",
+    "project_id": "system-control-50432",
+    "storage_bucket": "system-control-50432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636062757376:android:dcd8cfacf2787b37f65ee5",
+        "android_client_info": {
+          "package_name": "com.alexsans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636062757376-afbsctg3p44d6v4orl1pglq767lfb67t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31MFM4J1eAwmqSKNUFsCiHSDTAl2o2Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636062757376-afbsctg3p44d6v4orl1pglq767lfb67t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
